@@ -41,3 +41,13 @@ security
 
 snyk iac test deployment.yml
 
+References
+
+https://cncf.io
+
+
+Certifications
+
+Kubernetes and Cloud Native Associate Exam
+Certified Kubernetes Application Developer Exam
+Certified Kubernetes Administrator
