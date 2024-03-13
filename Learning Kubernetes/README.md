@@ -1,6 +1,12 @@
 # Learning kubernetes
 https://www.linkedin.com/learning/learning-kubernetes-16086900?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48d3fc498e244c8376de8c
 
+Environment
+
+Docker Desktop
+Vs Code
+Minikube
+
 commands
 
 kubectl get services -A
